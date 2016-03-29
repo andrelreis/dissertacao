@@ -1,2 +1,3 @@
-# dissertacao
-Repositório com os arquivos com a parte escrita da dissertação de mestrado desenvolvida no ON-MCTI
+# Dissertação
+
+Arquivo que conterá a parte escrita do projeto desenvolvido para a candidatura a obtenção do título de mestre no ON-MCTI.
